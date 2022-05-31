@@ -15,7 +15,7 @@
     },
     "OKTA_OIDC_CLIENT_ID": {
       "description": "The Okta OIDC application client id",
-      "value": "changeme"
+      "value": "0oa58bdpgqZHwR4u95d7"
     },
     "OKTA_OIDC_CLIENT_SECRET": {
       "description": "The Okta OIDC application client secret",
