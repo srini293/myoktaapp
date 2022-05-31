@@ -19,7 +19,7 @@
     },
     "OKTA_OIDC_CLIENT_SECRET": {
       "description": "The Okta OIDC application client secret",
-      "value": "changeme"
+      "value": "CcJOPXglhGlgiqTkx1_HB7vrQ0y1IGSNnMjdlyaF"
     },
     "OKTA_SESSION_USERNAME": {
       "description": "The email address of the user that the app will establish a session as",
