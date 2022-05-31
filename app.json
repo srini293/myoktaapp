@@ -7,7 +7,7 @@
   "env": {
     "OKTA_ORG": {
       "description": "The okta organization - ex: micah.okta.com",
-      "value": "changeme"
+      "value": "ey-dilab.okta.com"
     },
     "OKTA_AUTHORIZATION_SERVER_ID": {
       "description": "The Okta authorization server id - ex: aus9vmork8ww5twZg0h7",
